@@ -7,7 +7,7 @@ from discord.ext import commands
 DISCORD_TOKEN = "DISCORD_TOKEN"  # Update with the new bot token
 CHANNEL_ID = 1312759469561741322  # Replace with your channel ID
 
-# Messages storage
+# Messages storag
 messages = []
 
 # Discord Bot Setup
