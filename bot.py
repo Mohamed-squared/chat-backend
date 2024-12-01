@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 
 # Replace placeholders with your actual credentials
-DISCORD_TOKEN = "MTMxMjc2MDM4MzI1NzE4MjIzOA.GctJUr.A0UzqgjP3KOLMOM9T05Ugddb7Ycc3w6AM0XX1k"  # Update with the new bot token
+DISCORD_TOKEN = "DISCORD_TOKEN"  # Update with the new bot token
 CHANNEL_ID = 1312759469561741322  # Replace with your channel ID
 
 # Messages storage
